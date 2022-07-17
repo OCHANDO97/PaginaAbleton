@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@500;700&family=Josefin+Sans:ital,wght@0,300;1,700&display=swap');
+
+
+* {
+    font-family: 'Epilogue', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 700;
+    padding: 0px;
+    
+   
+}
+
+body {
+  background-color: #ccc;
+  margin: 0;
+}
+
