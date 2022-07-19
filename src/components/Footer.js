@@ -15,10 +15,10 @@ function Footer() {
           <li>Register Live or Push</li>
           <li>About Ableton</li>
           <li>Jobs</li>
-            <img  src={facebokImg} alt="" width="30px" height="30px" />
-            <img className="iconos" src={twitterImg} alt="" width="30px" height="30px" />
-            <img className="iconos" src={youtubeImg} alt="" width="30px" height="30px" />
-            <img className="iconos" src={instagramImg} alt="" width="30px" height="30px" />
+           <a href="https://www.facebook.com/ableton">  <img  src={facebokImg} alt="" width="30px" height="30px" /></a>
+            <a href="https://twitter.com/ableton"> <img className="iconos" src={twitterImg} alt="" width="30px" height="30px" /></a>
+           <a href="https://www.youtube.com/ableton">  <img className="iconos" src={youtubeImg} alt="" width="30px" height="30px" /></a>
+           <a href="https://www.instagram.com/ableton/"> <img className="iconos" src={instagramImg} alt="" width="30px" height="30px" /></a>
         </ul>
 
         <ul>
@@ -136,5 +136,9 @@ const FooterContainer = styled.footer`
 
   .iconos {
     padding-left: 10px;
+  }
+
+  a{
+    text-decoration: none;
   }
 `;

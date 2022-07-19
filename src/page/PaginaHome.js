@@ -17,7 +17,8 @@ import kimbraImg from "../assets/kimbra.jpg";
 import lafawndahImg from "../assets/lafawndah.jpg";
 import musicalImg from "../assets/musicalOnline.jpg";
 import Footer from "../components/Footer";
-function PaginaPrincipal() {
+
+function PaginaHome() {
   return (
     <>
       <GridContainer columns="auto auto" rows="auto 800px" >
@@ -47,7 +48,6 @@ function PaginaPrincipal() {
             </li>
           </ul>
           <h3 className={css.textMicrophoneLearn}>
-            Learn more{" "}
             <img
               className={css.imgFlechaMicrophone}
               src={FlechaDerecha}
@@ -262,4 +262,4 @@ function PaginaPrincipal() {
   );
 }
 
-export default PaginaPrincipal;
+export default PaginaHome;
