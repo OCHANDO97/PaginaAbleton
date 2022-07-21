@@ -10,6 +10,8 @@ const GridContainer = styled.div `
 `
 const  GridColumn = styled.div`
     grid-column: ${(props) => props.ini_fin};
+    grid-row: ${(props) => props.ini_row};
 ` 
+
 
 export {GridContainer, GridColumn}

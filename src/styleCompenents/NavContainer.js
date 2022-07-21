@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const NavContainer = styled.nav`
 
 margin-left:${(props) => props.margin} ;
+margin-right:50px ;
 
 ul {
 list-style-type: none;

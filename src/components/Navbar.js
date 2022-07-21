@@ -11,16 +11,18 @@ const Navbar = () => {
             <NavLink to="/"> Home</NavLink>
           </li>
           <li>
-            <NavLink to="/live"> Live</NavLink>
+            <NavLink to="/live">Live</NavLink>
           </li>
           <li>
-            <a href="# ">Push</a>
+            <NavLink to="/push">Push</NavLink>
+
           </li>
           <li>
             <a href="# ">Link</a>
           </li>
           <li>
-            <a href="# ">Shop</a>
+            <NavLink to="/shop">Shop</NavLink>
+
           </li>
           <li>
             <a href="# ">Packs</a>

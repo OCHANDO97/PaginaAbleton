@@ -89,7 +89,7 @@ function PaginaLive() {
         <main >
           <h1 className={css.title}>What’s new in Live 11</h1>
          <button className={css.btnRepoducir} onClick={openModal} > <img className={css.imgBtn} src={youtubeImg} alt="" height="40px" width="40px"  /> <strong className={css.textBtn}>See what’s new</strong> </button>
-          
+         
          <Modal
         isOpen={modalIsOpen}
         onRequestClose={closeModal}

@@ -1,5 +1,5 @@
 import React from "react";
-import css from "../style_page/PaginaPrincipal.module.css";
+import css from "../style_page/PaginaHome.module.css";
 import { GridContainer, GridColumn } from "../styleCompenents/GridContainer";
 import Navbar from "../components/Navbar";
 import Microphone from "../assets/microphone.jpg";
@@ -47,13 +47,7 @@ function PaginaHome() {
               A Workshop with Liz Teutsch
             </li>
           </ul>
-          <h3 className={css.textMicrophoneLearn}>
-            <img
-              className={css.imgFlechaMicrophone}
-              src={FlechaDerecha}
-              alt=""
-            />
-          </h3>
+       
         </article>
         <h1 className={css.titleTheLatest}>The latest from Ableton</h1>
         <GridColumn ini_fin="1/3">

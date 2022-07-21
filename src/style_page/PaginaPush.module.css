@@ -1,0 +1,127 @@
+.artiPushMusic{
+    background-color: white;
+    width: 790px;
+    height: 500px;
+    position: relative;
+    bottom: 430px;
+}
+
+.titlePushMusic {
+    position: absolute;
+    bottom: 550px;
+    left: 280px;
+    font-size:6em;
+    color: white;
+}
+
+.titlePushMusic2 {
+    position: absolute;
+    bottom: 430px;
+    left: 280px;
+    font-size:6em;
+    color: yellow;
+}
+.textPushMusic {  
+    color: black;
+    font-size: 2em;
+    width:500px;
+    padding: 4em 0em 0em 4.5em;
+    line-height: 1.5em
+
+}
+
+.textPushMusic2 {  
+    color: black;
+    font-size: 2em;
+    width:500px;
+    padding: 0em 0em 0em 4.5em;
+    line-height: 1.5em
+
+}
+
+.finalText {
+    line-height: 3em;
+}
+
+.iframeYoutube {
+    position: absolute;
+    left:953px;
+    top:1300px;
+    
+}
+
+
+.titleVideo {
+    position: absolute;
+    top: 2600px;
+    left: 1200px;
+    font-size:2.2em;
+    color: white;
+
+}
+.parrafoVideo {
+    position: absolute;
+    top: 2700px;
+    left: 1200px;
+    font-size:1.4em;
+    width: 340px;
+    color: white;
+
+
+}
+
+.artiPlay {
+    background-color: aqua;
+    width: 90%;
+    height: 1200px;
+
+}
+
+.imgPoster {
+    position: relative;
+    margin-top:120px;
+}
+
+.cardGrid {
+    display: grid;
+    grid-template-columns: repeat(2,50%);
+    grid-template-rows: 500px 900px;
+}
+
+.titlePlay {
+    width: 500px;
+    padding: 15em 0em 0em 7em;
+    font-size:2.2em;
+
+}
+
+.txtPlay{
+    width: 500px;
+    padding: 0em 0em 0em 13em;
+    font-size:1.2em;
+}
+
+.artiSound {
+    margin:43.7em 0em 0em 0em;
+    background-color: #E5F07A ;
+    width: 750px;
+    height: 500px;
+    position: relative;
+    
+}
+
+.titleSound {
+    width: 300px;
+    padding: 3em 0em 0em 3.5em;
+    font-size:2.2em;
+}
+
+.soundMovilImg {
+    margin:1000px 0px 0px -445px;
+}
+
+.txtSound {
+    width: 400px;
+    padding: 0em 0em 0em 6.5em;
+    font-size:1.2em;
+}

@@ -1,0 +1,89 @@
+.articuloLive {
+    width: 100%;
+    background-color: #e9f24b;
+    height: 800px;
+}
+
+.articuloPush {
+    background-image: url(../assets/pushImg.jpg);
+    background-repeat: no-repeat;
+    background-size: 800px 800px;
+    width: 100%;
+    color: red;
+    filter: brightness(45%); 
+
+}
+
+.titleArticle {
+    margin: 120px 0px 0px 120px;
+    font-size: 2.2em;
+}
+
+.txtGeneralArticle {
+    font-size: 1.2em;
+    margin: 20px 0px 0px 120px;
+    width: 300px;
+
+
+}
+
+.imgTryLive{
+    margin: 387px 0px 0px 0px;
+
+
+}
+
+.txtStudent {
+    height: 80px;
+    background-color: #BF6BB3 ;
+    margin: 1px 150px 0px 150px;
+    padding: 50px 0px 0px 120px;
+
+}
+
+.maxLive {
+    width: 100%;
+    background-color: black;
+    height: 800px;
+    color: white;
+}
+
+.Marking {
+    width: 100%;
+    background-color: white;
+    height: 800px;
+}
+
+.creMusic {
+    position: relative;
+    left: 450px;
+    bottom: 212px;
+
+}
+
+.maxDevices {
+    position: relative;
+    left: 50px;
+    top: 337px;
+}
+
+.Pack {
+    background-color: #95EE8A ;
+    width: 100%;
+
+}
+
+.merchandise {
+    width: 100%;
+    background-color:#81E5D1 ;
+}
+
+.imgPagos {
+    margin: 20px 0px 0px 120px;
+
+}
+
+.shoping {
+    margin: 0px 0px 150px 0px;
+
+}
