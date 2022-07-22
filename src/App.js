@@ -4,6 +4,7 @@ import { Routes, Route} from "react-router-dom";
 import PaginaLive from "../src/page/PaginaLive";
 import PaginaPush from "./page/PaginaPush";
 import PaginaShop from "./page/PaginaShop";
+import PaginaPack from "./page/PaginaPack";
 
 
 function App() {
@@ -14,6 +15,8 @@ function App() {
          <Route path="/live" element={<PaginaLive />} />
          <Route path="/push" element={<PaginaPush />} />
          <Route path="/shop" element={<PaginaShop />} />
+         <Route path="/packs" element={<PaginaPack />} />
+
          
       </Routes>
     </>

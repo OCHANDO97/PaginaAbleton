@@ -175,7 +175,7 @@ function PaginaHome() {
                 src="https://www.youtube.com/embed/gGS2QH4PJjI"
                 title="YouTube video player"
                 frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;fullscreen"
                 allowfullscreen
               ></iframe>
               <p className={css.textParrafo}>Jamming with mutes</p>
@@ -187,7 +187,7 @@ function PaginaHome() {
                 src="https://www.youtube.com/embed/xxH2jKktHYY"
                 title="YouTube video player"
                 frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;fullscreen"
                 allowfullscreen
               ></iframe>
               <p className={css.textParrafo}>Delay as a tone shaper</p>
@@ -199,7 +199,7 @@ function PaginaHome() {
                 src="https://www.youtube.com/embed/DhmXp_KdoWc"
                 title="YouTube video player"
                 frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;fullscreen"
                 allowfullscreen
               ></iframe>
               <p className={css.textParrafo}>Starting with data</p>

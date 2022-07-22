@@ -1,0 +1,21 @@
+.artiIreal {
+    background-image: url(../assets/hyperreal.jpg);
+    background-repeat: no-repeat;
+    background-size: 1900px 400px;
+    height:100%;
+
+}
+
+.titleIreal {
+    padding: 120px 0px 0px 120px;
+    font-size:3em;
+    color: blueviolet;
+}
+
+.subTitleIreal {
+    font-size:2em;
+    padding: 0px 0px 0px 120px;
+    color: blueviolet;
+
+
+}

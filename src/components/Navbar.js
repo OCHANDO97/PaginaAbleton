@@ -17,19 +17,16 @@ const Navbar = () => {
             <NavLink to="/push">Push</NavLink>
 
           </li>
-          <li>
-            <a href="# ">Link</a>
-          </li>
+     
           <li>
             <NavLink to="/shop">Shop</NavLink>
 
           </li>
           <li>
-            <a href="# ">Packs</a>
+            <NavLink to="/packs">Packs</NavLink>
+
           </li>
-          <li>
-            <a href="# ">Help</a>
-          </li>
+          
         </ul>
       </NavContainer>
     </>
