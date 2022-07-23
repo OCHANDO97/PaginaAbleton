@@ -12,7 +12,7 @@ const PaginaPack = () => {
 
     useEffect(() => {
        
-         fetch("http://localhost:5000/data/")
+         fetch("https://my-json-server.typicode.com/OCHANDO97/Api_ableton/data")
          .then(response => response.json())
          .then(response => setDatos(response))
          .catch(err => console.error(err));

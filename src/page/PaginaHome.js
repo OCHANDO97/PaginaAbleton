@@ -109,11 +109,7 @@ function PaginaHome() {
               <li>
                 <a href="# ">
                   Discore more
-                  <img
-                    className={css.imgFlechaDiscore}
-                    src={FlechaDerecha}
-                    alt=""
-                  />
+                 
                 </a>
               </li>
             </ul>
@@ -151,20 +147,6 @@ function PaginaHome() {
             One Thing videos: monthly creative tips
           </h1>
 
-          <NavContainer color="blue" margin="1400px">
-            <ul>
-              <li>
-                <a href="# ">
-                  See all videos
-                  <img
-                    className={css.imgFlechaDiscore}
-                    src={FlechaDerecha}
-                    alt=""
-                  />
-                </a>
-              </li>
-            </ul>
-          </NavContainer>
         </GridColumn>
         <GridColumn ini_fin="1/3">
           <CardFlex>
