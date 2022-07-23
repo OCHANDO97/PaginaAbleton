@@ -22,7 +22,7 @@ const PaginaPack = () => {
  
   return (
     <>
-    <GridContainer columns="repeat(2,50%)" rows="auto 600px 1500px" >
+    <GridContainer columns="repeat(2,50%)" rows="auto 600px 1900px" >
         <GridColumn ini_fin="1/3">
             <Navbar />
         </GridColumn>
@@ -38,7 +38,7 @@ const PaginaPack = () => {
             return (
                <div>
                 <img src={el.imagen} alt="" height="300px" width="300px" />
-                <p>{el.title}</p>
+                <p >{el.title}</p>
                 <audio src={el.music} preload="none" controls></audio>
                </div> 
             )

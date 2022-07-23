@@ -59,20 +59,45 @@
         "id": 10,
         "title": 	"ableton beat 174 (psychotic music)",
         "music": 		"https://cdns-preview-9.dzcdn.net/stream/c-9f886183e11e0b424d2994a2e8ceb871-2.mp3",
-        "imagen": 	"https://e-cdns-images.dzcdn.net/images/artist/4c35c0427e3c2e9e92ab543835653b05/1000x1000-000000-80-0-0.jpg"
+        "imagen": 	"https://e-cdns-images.dzcdn.net/images/cover/c2b116e9311d3ba50ebbf173b70a103b/1000x1000-000000-80-0-0.jpg"
     },
     {
         "id": 11,
         "title": 	"Ableton Electro Dream",
-        "music": 			"https://cdns-preview-b.dzcdn.net/stream/c-b63989c8f3e8aeb62233dc3758394c4e-3.mp3",
-        "imagen": 	"https://e-cdns-images.dzcdn.net/images/artist/4c35c0427e3c2e9e92ab543835653b05/1000x1000-000000-80-0-0.jpg"
+        "music": 	"https://cdns-preview-b.dzcdn.net/stream/c-b63989c8f3e8aeb62233dc3758394c4e-3.mp3",
+        "imagen": 		"https://e-cdns-images.dzcdn.net/images/artist/518fb1e1d2c70436202b78e831946341/1000x1000-000000-80-0-0.jpg"
     },
     {
         "id": 12,
         "title": "IPHONE ABLETON LUXE",
+        "music": "https://cdns-preview-e.dzcdn.net/stream/c-e3a8a4f768a089cb1c56287a84b6fbde-2.mp3",
+        "imagen": "https://e-cdns-images.dzcdn.net/images/cover/80b4ed19316512a50a8f5445843f2ee4/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+        "id": 13,
+        "title": "ableton beat 145 (can't feel my face) [feat. DJ Enpitsu]",
+        "music": 	"https://cdns-preview-e.dzcdn.net/stream/c-e664961d1fc2a404ce74c61f671be4b0-2.mp3",
+        "imagen": 	"https://e-cdns-images.dzcdn.net/images/cover/c2b116e9311d3ba50ebbf173b70a103b/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Agua Ableton Reason Document 1 2009",
+        "music": 	"https://cdns-preview-5.dzcdn.net/stream/c-5e70f9fa50a4b000101ca72af790ec36-2.mp3",
+        "imagen": 	"https://e-cdns-images.dzcdn.net/images/artist/9c589cc745361f16ec2943a4185f5ca4/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+        "id": 15,
+        "title": 	"FuckOff",
         "music": 			"https://cdns-preview-e.dzcdn.net/stream/c-e3a8a4f768a089cb1c56287a84b6fbde-2.mp3",
-        "imagen": 		"https://e-cdns-images.dzcdn.net/images/artist//1000x1000-000000-80-0-0.jpg"
+        "imagen": 		"https://e-cdns-images.dzcdn.net/images/cover/80b4ed19316512a50a8f5445843f2ee4/1000x1000-000000-80-0-0.jpg"
+    },
+    {
+        "id": 16,
+        "title": 		"TripleDouble",
+        "music": 			"https://cdns-preview-6.dzcdn.net/stream/c-6f04170deb5463a2b8894c62583ffd92-2.mp3",
+        "imagen": 			"https://e-cdns-images.dzcdn.net/images/cover/80b4ed19316512a50a8f5445843f2ee4/1000x1000-000000-80-0-0.jpg"
     }
+
 
 
 
