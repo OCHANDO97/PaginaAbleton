@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PaginaAbleton/static/css/main.7087f9fc.css",
-    "main.js": "/PaginaAbleton/static/js/main.7d15c10f.js",
+    "main.js": "/PaginaAbleton/static/js/main.b8b40a3c.js",
     "static/media/tecladoVideo.mp4": "/PaginaAbleton/static/media/tecladoVideo.ed09deedc27dfa742b05.mp4",
     "static/media/microphone.jpg": "/PaginaAbleton/static/media/microphone.65c0bfa40aa7d032ddb4.jpg",
     "static/media/teclado.jpg": "/PaginaAbleton/static/media/teclado.f3d78ddb0e62abf5fd34.jpg",
@@ -43,10 +43,10 @@
     "static/media/maxDevices.jpg": "/PaginaAbleton/static/media/maxDevices.f4e5f948a94e3e144ba7.jpg",
     "index.html": "/PaginaAbleton/index.html",
     "main.7087f9fc.css.map": "/PaginaAbleton/static/css/main.7087f9fc.css.map",
-    "main.7d15c10f.js.map": "/PaginaAbleton/static/js/main.7d15c10f.js.map"
+    "main.b8b40a3c.js.map": "/PaginaAbleton/static/js/main.b8b40a3c.js.map"
   },
   "entrypoints": [
     "static/css/main.7087f9fc.css",
-    "static/js/main.7d15c10f.js"
+    "static/js/main.b8b40a3c.js"
   ]
 }
